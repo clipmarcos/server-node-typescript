@@ -1,3 +1,3 @@
-# API REST BASE - TypeScript
+# API REST BASE - TypeScript - Es6
 
 This server is based on class
